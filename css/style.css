@@ -1,0 +1,32 @@
+body {
+	background-color: #dce809;
+}
+
+
+.main canvas {
+	padding: 0;
+	margin: auto;
+	display: block;
+}
+
+.main button {
+	margin: 0 auto;
+	display: block;
+	margin-top: 3em;
+	background-color: #7c0c53;
+	color: white;
+	font-size: 13px;
+}
+
+
+#win {
+	visibility: hidden;
+	margin: 0 auto;
+	color: #7c0c53;
+}
+
+#lose {
+	visibility: hidden;
+	margin: 0 auto;
+	color: #7c0c53;
+}
